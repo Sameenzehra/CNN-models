@@ -5,3 +5,6 @@ mnist dataset
 <br>
 model training and testing
 <br>
+added cifar10 model 
+<br>
+step by step solution with different parameters
