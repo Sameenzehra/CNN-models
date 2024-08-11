@@ -8,3 +8,7 @@ model training and testing
 added cifar10 model 
 <br>
 step by step solution with different parameters
+<br>
+object detection with its accuracy.
+<br>
+train model on yolov3-320
